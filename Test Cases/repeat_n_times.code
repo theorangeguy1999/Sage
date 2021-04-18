@@ -1,0 +1,18 @@
+int Mukati(int a)
+{
+	int i = 1;
+	repeat a times
+	{
+       println i;
+       i++;
+	}
+	return 0;
+}
+
+int main()
+{
+	int a;
+	println "Print 1st 10 numbers";
+	a = Mukati(10);
+	return 0;
+}
